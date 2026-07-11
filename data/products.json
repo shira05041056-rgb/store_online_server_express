@@ -1,0 +1,32 @@
+[
+  {
+    "id": "book_001",
+    "name": "The Hobbit - J.R.R. Tolkien",
+    "price": 45.99,
+    "stock": 5
+  },
+  {
+    "id": "book_002",
+    "name": "Sapiens: A Brief History of Humankind - Yuval Noah Harari",
+    "price": 24.5,
+    "stock": 30
+  },
+  {
+    "id": "book_003",
+    "name": "The Hitchhiker's Guide to the Galaxy - Douglas Adams",
+    "price": 14.95,
+    "stock": 12
+  },
+  {
+    "id": "book_004",
+    "name": "1984 - George Orwell",
+    "price": 11.99,
+    "stock": 50
+  },
+  {
+    "id": "book_005",
+    "name": "To Kill a Mockingbird - Harper Lee",
+    "price": 13.25,
+    "stock": 5
+  }
+]
